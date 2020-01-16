@@ -64,3 +64,111 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+
+body {
+	text-align: center;
+	width: 100%;
+	margin: 0 10px;
+}
+
+.navigation {
+	display: inline-block;
+	width: 100%;
+	
+}
+
+nav a {
+	margin: 0 3%;
+	display: inline-block;
+	color: gray;
+	text-decoration: none;
+}
+
+header {
+	width: 80%;
+	display: inline-block;
+}
+
+.Innovation-On-Demand {
+	width: 40%;
+	display: inline-block;
+}
+
+.header-img {
+	width: 40%;
+	display: inline-block;
+}
+
+h1 {
+	font-size: 100px;
+}
+
+.above-img-section {
+	display: inline-block;
+	width: 90%
+}
+
+.features {
+	width: 45%;
+	display: inline-block;
+}
+.features h2 {
+	text-align: left;
+}
+
+.about {
+	width: 45%;
+	display: inline-block;
+}
+
+.about h2 {
+	text-align: left;
+}
+
+.middle-page-img {
+	display: inline-block;
+	width: 100%;
+}
+
+.below-img-section {
+	display: inline-block;
+	width: 99%;
+}
+
+.services {
+	display: inline-block;
+	width: 30%;
+}
+
+.services h2 {
+	text-align: left;
+}
+
+.product {
+	display: inline-block;
+	width: 30%;
+}
+
+.product h2 {
+	text-align: left;
+}
+.vision {
+	display: inline-block;
+	width: 30%;
+}
+
+.vision h2 {
+	text-align: left;
+}
+
+footer{
+	text-align: left;
+}
+
+address {
+	text-align: left;
+}
+.copyright {
+	text-align: center;
+}
